@@ -1,6 +1,6 @@
 # quizit
 
-A new Flutter project.
+This is an assignment in the Udemy Flutter & Dart - The Complete Guide [2023 Edition] course. This was my first attempt at a multi-screen Flutter/Dart project.
 
 ## Getting Started
 
